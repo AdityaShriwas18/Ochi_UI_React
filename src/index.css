@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{box-sizing: border-box;}
+
+.startdiv:hover{
+    background-color: #212121;
+    color: #F1F1F1;
+    transition: .2s ease-in-out;
+}
+
+.about a{
+    border-bottom: 2px solid #212121;
+}
+
+@font-face {
+    font-family: "Font1";
+    src: url("../Fonts/FoundersGrotesk-Semibold.ttf");
+  }
+
+@font-face {
+    font-family: "Font2";
+    src: url("../Fonts/NeueMontreal-Regular.ttf");
+}
+
+@media (max-width: 1280px) {
+    /* .outerContainer{
+        flex-direction: column;
+    } */
+
+    /* .cardcontainer{
+        width: 100%;
+        height: 30vh;
+    } */
+}
