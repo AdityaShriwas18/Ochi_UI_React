@@ -19,8 +19,3 @@ https://adityashriwas18.github.io/Ochi_UI_React/
 ## Learnings
 In this project, I learned about the concepts of building components, managing state, and designing responsive layouts. I utilized React.js for its powerful and efficient rendering capabilities, while Tailwind CSS made styling easy and flexible.
 
-## Here’s what I used and learned:
-
-React.js: Learned the concepts of state and components and how they are used
-Tailwind CSS: Quick and easy styling
-GSAP: Implemented smooth animations with React.js
